@@ -3,5 +3,9 @@ git add - to commit file
 git commit -m "message" -commit the file
 git log -show log file
 git check (hashnumber from log) -back to the changes
+<<<<<<< HEAD
 git branch (name) - create new branch
 git merge master - merge with master
+=======
+sample
+>>>>>>> 0b8d5e5d3fa68ea39c9dc16458a0697b040c1752
