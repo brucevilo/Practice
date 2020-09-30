@@ -3,3 +3,4 @@ git add - to commit file
 git commit -m "message" -commit the file
 git log -show log file
 git check (hashnumber from log) -back to the changes
+sample
